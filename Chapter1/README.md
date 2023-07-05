@@ -18,3 +18,6 @@ cara membuat ssh key
 
 ![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/c68bd6ab-784d-4b12-aa2d-1730d7be7330)
 
+6. hasil
+
+![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/3345459a-b75b-4fb2-aab4-f9790eb9ace4)
