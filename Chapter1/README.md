@@ -4,6 +4,7 @@ cara membuat ssh key
 1. buka git bash
 
 ![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/e04bc36f-38a9-49dd-b647-f0c949985dd2)
+
 3. ketik ssh-keygen lalu tekan enter untuk memakai nama file default dan tekan enter 2x untuk mengosongkan passphrase
 4. setelah itu masuk ke github pilih setting lalu pilih ssh dan GPG keys
 5. pilih new ssh key untuk memberi nama contoh title: SSH Windows Ari 
