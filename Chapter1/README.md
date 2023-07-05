@@ -13,10 +13,8 @@ cara membuat ssh key
 
 ![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/83d6e5f8-c4b5-47df-adcc-47362ef86991)
 
-5. pilih new ssh key untuk memasukan nama dan key
-7. masukan nama contoh title: SSH Windows Ariyo dan untuk Key buka file explorer di folder C:\Users\nama_user\.ssh dan buka nama file id_rsa.pub menggunakan vscode lalu copy semua isi dalam file dengan mengetik ctrl+a+c dan paste ke dalam key setelah itu klik Add SSH key
+4. pilih new ssh key untuk memasukan nama dan key
+5. masukan nama contoh title: SSH Windows Ariyo dan untuk Key buka file explorer di folder C:\Users\nama_user\.ssh dan buka nama file id_rsa.pub menggunakan vscode lalu copy semua isi dalam file dengan mengetik ctrl+a+c dan paste ke dalam key setelah itu klik Add SSH key
 
 ![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/c68bd6ab-784d-4b12-aa2d-1730d7be7330)
 
-9. setelah itu buka gitlab dan pilih poto profil dan pilih preferences lalu pilih ssh keys
-10. lalu masukan nama title dan key sama persis dengan seperti di github sebelumnya dan klik Addkey dan selesai
