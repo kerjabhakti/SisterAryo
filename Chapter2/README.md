@@ -74,3 +74,5 @@ Pada bagian ini akan membuat fungsi-fungsi di javascript untuk mengirimkan data 
  
    ![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/b68ca948-91f9-4337-a674-c259977b1291)
 
+   ![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/7e50ef51-fe11-45da-8c42-b98172590201)
+
