@@ -29,6 +29,6 @@ Buka Postman untuk melakukan testing endpoint dengan contoh :
 * Disana akan terlihat pada bagian headers ada Login yang kita masukkan dan pada bagian body ada json yang kita masukkan ke postman.
   Artinya endpoint dan http request bekerja dengan baik untuk menangkap header dan body yang dikirimkan.
 
-![4](https://github.com/kerjabhakti/SisterAryo/assets/56922640/163fe08a-376b-4e4e-9454-9b244f073b16)
+![4](https://github.com/kerjabhakti/SisterAryo/assets/56922640/8d228237-5a42-4423-a4c0-2346535a79a5)
 
 * Simpan kode javascript yang dibuat oleh postman dengan menekan tanda </> dibagian pojok kanan atas, kemudian pilih javascipt - Fetch
