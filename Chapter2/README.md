@@ -12,3 +12,9 @@
 
 ![1](https://github.com/kerjabhakti/SisterAryo/assets/56922640/8e6d7c8d-18c3-449a-9e1f-6f627dec27a2)
 
+# Melakukan Testing Endpoint
+Buka Postman untuk melakukan testing endpoint dengan contoh :
+* Method POST Headers isi dengan Key : Login , Value : Bebas. Pada bagian body isi dengan data json .Kemudian klik Send
+
+![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/e6af0a8c-0225-43e4-92a8-34dcf9247208)
+
