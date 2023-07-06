@@ -65,3 +65,5 @@ Pada bagian ini akan membuat fungsi-fungsi di javascript untuk mengirimkan data 
 
 2. Membuat fungsi PushButton() untuk melakukan aksi setelah menekan tombol, pada bagian html button tambahkan atribut onclick.
 
+   ![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/99035e1b-209c-45f1-8667-c1c1e3b188dc)
+   ![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/ce8aff82-a11d-4a8c-88c1-8ec51a8cdb5d)
