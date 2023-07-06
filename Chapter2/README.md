@@ -9,3 +9,6 @@
 ![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/33cc51f6-edfd-45d5-836e-2ea4b3db852f)
 
 # Akan keluar unique URL untuk endpoint : https://eornxvetq6guwch.m.pipedream.net . Kemudian kita coba dengan postman dahulu
+
+![1](https://github.com/kerjabhakti/SisterAryo/assets/56922640/8e6d7c8d-18c3-449a-9e1f-6f627dec27a2)
+
