@@ -32,3 +32,12 @@ Buka Postman untuk melakukan testing endpoint dengan contoh :
 ![4](https://github.com/kerjabhakti/SisterAryo/assets/56922640/8d228237-5a42-4423-a4c0-2346535a79a5)
 
 * Simpan kode javascript yang dibuat oleh postman dengan menekan tanda </> dibagian pojok kanan atas, kemudian pilih javascipt - Fetch
+
+![5](https://github.com/kerjabhakti/SisterAryo/assets/56922640/a943d04a-a0fc-4688-9de5-04844d60888b)
+
+![6](https://github.com/kerjabhakti/SisterAryo/assets/56922640/d8b82561-f85f-4453-86b0-9d9dfd28085b)
+
+Membuat Form Pendaftaran
+
+* Cari dulu di google dengan keyword sign up form tailwind component free. Contoh : https://tailwindcomponents.com/component/simple-registersign-up-form/landing
+
