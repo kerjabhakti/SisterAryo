@@ -89,5 +89,5 @@ Disini kita akan coba untuk mengubah tampilan jika tombol di klik, maka form aka
 
 ![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/398ffaf5-bb51-4e43-8fac-811fc36bde25)
 
-document.getElementById("formsignup").style.display = 'none';
-document.getElementById("formsignup").style.display = 'block';
+### document.getElementById("formsignup").style.display = 'none';
+### document.getElementById("formsignup").style.display = 'block';
