@@ -67,3 +67,8 @@ Pada bagian ini akan membuat fungsi-fungsi di javascript untuk mengirimkan data 
 
    ![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/99035e1b-209c-45f1-8667-c1c1e3b188dc)
    ![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/ce8aff82-a11d-4a8c-88c1-8ec51a8cdb5d)
+
+3. Test dengan klik kanan Open with live server, isi form nya sambil inspect console lalu klik button yang kita buat. Terlihat dari console data success dikirim. kemudian lihat pada dashboard pipedream data sudah diterima dengan baik oleh endpoint baik itu header maupun body.
+
+   ![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/b68ca948-91f9-4337-a674-c259977b1291)
+
