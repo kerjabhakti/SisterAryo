@@ -1,4 +1,4 @@
-# Masukan SSH Key Tutorial
+# Membuat SSH Key Tutorial
 download git-scm dari https://git-scm.com/downloads
 
 cara membuat ssh key
