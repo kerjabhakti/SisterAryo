@@ -25,3 +25,6 @@ Buka Postman untuk melakukan testing endpoint dengan contoh :
 ![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/b6964d0e-3b4f-4fed-b87e-ff6de15fe15c)
 
 ![3](https://github.com/kerjabhakti/SisterAryo/assets/56922640/ee70599a-eada-4384-a2f2-394cb7372f7a)
+
+* Disana akan terlihat pada bagian headers ada Login yang kita masukkan dan pada bagian body ada json yang kita masukkan ke postman.
+  Artinya endpoint dan http request bekerja dengan baik untuk menangkap header dan body yang dikirimkan.
