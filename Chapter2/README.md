@@ -12,7 +12,7 @@
 
 ![1](https://github.com/kerjabhakti/SisterAryo/assets/56922640/8e6d7c8d-18c3-449a-9e1f-6f627dec27a2)
 
-# Melakukan Testing Endpoint
+### Melakukan Testing Endpoint
 Buka Postman untuk melakukan testing endpoint dengan contoh :
 * Method POST Headers isi dengan Key : Login , Value : Bebas. Pada bagian body isi dengan data json .Kemudian klik Send
 
@@ -37,7 +37,10 @@ Buka Postman untuk melakukan testing endpoint dengan contoh :
 
 ![6](https://github.com/kerjabhakti/SisterAryo/assets/56922640/d8b82561-f85f-4453-86b0-9d9dfd28085b)
 
-Membuat Form Pendaftaran
+### Membuat Form Pendaftaran
 
 * Cari dulu di google dengan keyword sign up form tailwind component free. Contoh : https://tailwindcomponents.com/component/simple-registersign-up-form/landing
 
+![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/dc84ccc4-3e86-4a51-ae99-cd83bb997b9b)
+
+* Unduh kodenya untuk di pakai ditaruh di repo dan coba live server dari vscode.
