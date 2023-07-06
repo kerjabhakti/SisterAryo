@@ -55,5 +55,13 @@ Buka Postman untuk melakukan testing endpoint dengan contoh :
 
 ![8](https://github.com/kerjabhakti/SisterAryo/assets/56922640/7f3907b8-1e37-4171-b60f-830a5e4d53dd)
 
-// <script src="croot.js"></script>
+### Membuat Fungsi Javascript
+
+Pada bagian ini akan membuat fungsi-fungsi di javascript untuk mengirimkan data dari html menuju endpoint pipedream yang sudah di buat. Harus dibuat fungsi agar kode program javascript tetap rapih dan mudah terbaca
+
+1. Membuat fungsi PostSignUp() yang berfungsi untuk melakukan Post Form Data Sign Up. Fungsi ini diambil dari postman, yang kita modif data inputan dari id form html.
+
+![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/8cbb4e82-3e6d-4903-a698-4cd74d5b3884)
+
+2. Membuat fungsi PushButton() untuk melakukan aksi setelah menekan tombol, pada bagian html button tambahkan atribut onclick.
 
