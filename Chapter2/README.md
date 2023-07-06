@@ -20,3 +20,8 @@ Buka Postman untuk melakukan testing endpoint dengan contoh :
 
 ![2](https://github.com/kerjabhakti/SisterAryo/assets/56922640/0ce79d87-d3cc-424d-b5be-44d0d46a65e1)
 
+* Dashboard Pipedream akan muncul 1 New Event, kita buka event tersebut.
+
+![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/b6964d0e-3b4f-4fed-b87e-ff6de15fe15c)
+
+![3](https://github.com/kerjabhakti/SisterAryo/assets/56922640/ee70599a-eada-4384-a2f2-394cb7372f7a)
