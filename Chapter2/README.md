@@ -89,8 +89,7 @@ Disini kita akan coba untuk mengubah tampilan jika tombol di klik, maka form aka
 
 ![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/398ffaf5-bb51-4e43-8fac-811fc36bde25)
 
-#### document.getElementById("formsignup").style.display = 'none';
-#### document.getElementById("formsignup").style.display = 'block';
+![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/e3aebe12-7341-4164-889a-c69605913757)
 
 * Tambahkan fungsi GetResponse() di file js kita yang sudah dibuat sebelumnya, dan melakukan modifikasi dari fungsi PostSignUp pada bagian then result.
 
