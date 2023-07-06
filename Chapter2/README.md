@@ -18,3 +18,5 @@ Buka Postman untuk melakukan testing endpoint dengan contoh :
 
 ![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/e6af0a8c-0225-43e4-92a8-34dcf9247208)
 
+![3](https://github.com/kerjabhakti/SisterAryo/assets/56922640/039b5c17-cbe2-4883-881f-030c3ef5545d)
+
