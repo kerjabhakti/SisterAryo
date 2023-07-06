@@ -76,3 +76,18 @@ Pada bagian ini akan membuat fungsi-fungsi di javascript untuk mengirimkan data 
 
    ![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/7e50ef51-fe11-45da-8c42-b98172590201)
 
+### Tambahan Estetika UX
+
+Disini kita akan coba untuk mengubah tampilan jika tombol di klik, maka form akan disembunyikan dan menampilkan data yang diterima dari endpoint pipedream. Cukup menambahkan satu fungsi lagi dan memodifikasi fungsi PostSignUp() khususnya dibagian result then fetch nya. Langkahnya sebagai berikut :
+
+* Pertama cari dulu element yang akan kita hidden, bisa menggunakan inspect elemetns untuk identifikasinya, kemudian kita kasih id
+
+![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/b8f5619f-c3e3-420d-bbab-a5e55b6356e2)
+![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/42fd6e1b-7aef-4635-b762-e23b0fd3b1eb)
+
+*  Coba script style display pada bagian console dengan menggunakan id yang sudah kita buat, style display mana yang bisa menghilangkan formsignup apakah block atau none. Terlihat di gambar none bisa mengilangkan element formsignup, kita mungkin akan pakai script ini di fungsi kita yang akan datang. Dari sini kita paham bagaimana menyembunyikan element dengan js.
+
+![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/398ffaf5-bb51-4e43-8fac-811fc36bde25)
+
+document.getElementById("formsignup").style.display = 'none';
+document.getElementById("formsignup").style.display = 'block';
