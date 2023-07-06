@@ -87,7 +87,7 @@ Disini kita akan coba untuk mengubah tampilan jika tombol di klik, maka form aka
 
 *  Coba script style display pada bagian console dengan menggunakan id yang sudah kita buat, style display mana yang bisa menghilangkan formsignup apakah block atau none. Terlihat di gambar none bisa mengilangkan element formsignup, kita mungkin akan pakai script ini di fungsi kita yang akan datang. Dari sini kita paham bagaimana menyembunyikan element dengan js.
 
-![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/398ffaf5-bb51-4e43-8fac-811fc36bde25)
+![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/2d4faf44-8e57-4a0c-84c7-ee9585ed399f)
 
 ![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/e3aebe12-7341-4164-889a-c69605913757)
 
