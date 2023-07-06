@@ -44,3 +44,16 @@ Buka Postman untuk melakukan testing endpoint dengan contoh :
 ![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/dc84ccc4-3e86-4a51-ae99-cd83bb997b9b)
 
 * Unduh kodenya untuk di pakai ditaruh di repo dan coba live server dari vscode.
+
+![image](https://github.com/kerjabhakti/SisterAryo/assets/56922640/d38edabc-d903-4196-bce2-c2e18ffd581d)
+
+* Cari element dari input dan buttonnya kemudian kita beri id
+
+![7](https://github.com/kerjabhakti/SisterAryo/assets/56922640/1f466f7b-9778-4f27-a40b-5eef848a25ef)
+
+* Buat file js kita masukkan dahulu javascript yang didapatkan dari postman ke js tersebut, kemudian panggil pada bagian bawah sebelum tag penutup body
+
+![8](https://github.com/kerjabhakti/SisterAryo/assets/56922640/7f3907b8-1e37-4171-b60f-830a5e4d53dd)
+
+// <script src="croot.js"></script>
+
