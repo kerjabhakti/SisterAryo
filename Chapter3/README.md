@@ -1,6 +1,6 @@
-# SisterAryo
-Buat masing-masing chapter dan deskripsikan perintahnya pada readme
-Sesuai studi kasusnya
+# Studi Kasus Telepon
 
-dibuat per chapter untuk kasusnya
-Setelah selesai Live Code (Test) apa yang dikerjakan
+## Link Video Chapter 2
+
+- [Klik Disini](https://youtu.be/I5IWt-A_OrE) - Chapter 02 Sistem Tersebar.
+
