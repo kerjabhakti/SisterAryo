@@ -9,4 +9,4 @@
 
 * Thread name and processes
 
-
+![Thread_name_and_processes](https://github.com/kerjabhakti/SisterAryo/assets/56922640/59c3f768-1e53-4ef6-bc64-6651fde3ff0b)
