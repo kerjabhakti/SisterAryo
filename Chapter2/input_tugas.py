@@ -1,4 +1,4 @@
-# Membuat list kosong untuk menyimpan tugas
+# Membuat list kosong untuk menyimpan tugass
 daftar_tugas = []
 
 # Menginputkan jumlah tugas
