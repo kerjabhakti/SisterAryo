@@ -1,6 +1,22 @@
 # Studi Kasus : Penjadwalan Tugas - Menginputkan Tugas
 * Barrier
 
+# Membuat list kosong untuk menyimpan tugass
+daftar_tugas = []
+
+# Menginputkan jumlah tugas
+jumlah_tugas = int(input("Masukkan jumlah tugas: "))
+
+# Menginputkan nama tugas dan menyimpannya ke dalam list
+for i in range(jumlah_tugas):
+    tugas = input("Masukkan nama tugas ke-{}: ".format(i + 1))
+    daftar_tugas.append(tugas)
+
+# Menampilkan daftar tugas
+print("Daftar tugas:")
+for tugas in daftar_tugas:
+    print(tugas)
+
 ![Barrier](https://github.com/kerjabhakti/SisterAryo/assets/56922640/aafcf016-54f2-44fe-86f4-fd45552d3738)
 
 * Thread Definition
