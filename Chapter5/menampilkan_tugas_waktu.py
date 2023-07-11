@@ -26,3 +26,7 @@ for tugas in daftar_tugas:
 print("Waktu pengerjaan tugas:")
 for tugas, waktu in waktu_pengerjaan.items():
     print("{}: {} jam".format(tugas, waktu))
+    
+# Menampilkan tugas berdasarkan waktu pengerjaan terpendek
+tugas_terpendek = min(waktu_pengerjaan, key=waktu_pengerjaan.get)
+print("Tugas dengan waktu pengerjaan terpendek: {}".format(tugas_terpendek))
