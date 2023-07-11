@@ -2,9 +2,6 @@
 jadwal_tugas = []
 daftar_tugas = []
 
-# Mengurutkan daftar tugas berdasarkan urutan alfabet
-daftar_tugas.sort()
-
 # Menginputkan jumlah tugas
 jumlah_tugas = int(input("Masukkan jumlah tugas: "))
 
@@ -18,7 +15,7 @@ print("Daftar tugas:")
 for tugas in daftar_tugas:
     print(tugas)
 
-# Menjadwalkan tugas secara rata-rata
+# Menjadwalkan tugas
 jumlah_tugas = len(daftar_tugas)
 jumlah_hari = int(input("Masukkan jumlah hari: "))
 tugas_per_hari = jumlah_tugas // jumlah_hari
