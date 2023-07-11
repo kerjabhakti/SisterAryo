@@ -1,4 +1,4 @@
-# Studi Kasus Telepon - Panggilan
+# Studi Kasus : Penjadwalan Tugas - Menginputkan Tugas
 * Barrier
 
 ![Barrier](https://github.com/kerjabhakti/SisterAryo/assets/56922640/aafcf016-54f2-44fe-86f4-fd45552d3738)
