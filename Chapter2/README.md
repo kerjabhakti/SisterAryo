@@ -7,4 +7,4 @@
 * Pertama membuat list kosong dengan nama daftar_tugas untuk menyimpan tugas-tugas yang diinputkan.
 * Selanjutnya, meminta pengguna untuk memasukkan jumlah tugas yang akan dijadwalkan.
 * Setelah itu, menggunakan loop 'for', kita meminta pengguna untuk memasukkan nama tugas sebanyak jumlah tugas yang telah diinputkan. Nama tugas tersebut kemudian disimpan dalam list daftar_tugas.
-* Terakhir, kita menampilkan daftar tugas yang telah diinputkan oleh pengguna.
+* Terakhir, kita menampilkan daftar tugas yang telah diinputkan oleh penggunaa.
