@@ -25,6 +25,6 @@ for i in range(jumlah_hari):
     jadwal = daftar_tugas[i*tugas_per_hari:(i+1)*tugas_per_hari]
     jadwal_tugas.append(jadwal)
 
-# Menampilkan jadwal tugas
+# Menampilkan jadwal tugass
 for i, jadwal in enumerate(jadwal_tugas):
     print("Hari {}: {}".format(i+1, jadwal))
